@@ -156,35 +156,37 @@ Just create a new GitHub issue or a pull request and we will answer as soon as p
 
 
 
-## Citation
-Please cite these papers in your publications if it helps your research. All of OpenPose is based on [OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1812.08008), while the hand and face detectors also use [Hand Keypoint Detection in Single Images using Multiview Bootstrapping](https://arxiv.org/abs/1704.07809) (the face detector was trained using the same procedure than the hand detector).
-
     @article{8765346,
-      author = {Z. {Cao} and G. {Hidalgo Martinez} and T. {Simon} and S. {Wei} and Y. A. {Sheikh}},
-      journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
-      title = {OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields},
-      year = {2019}
+     author = {OUBLAL Khalid},
+      booktitle = {AI OPenPose},
+      title = {Convolutional pose machines},
+      year = {2020 at IPolytechnique Paris}
+ 
     }
 
     @inproceedings{simon2017hand,
-      author = {Tomas Simon and Hanbyul Joo and Iain Matthews and Yaser Sheikh},
-      booktitle = {CVPR},
+      author = {OUBLAL Khalid},
+      booktitle = {AI OPenPose},
+      title = {Convolutional pose machines},
+      year = {2020 at IPolytechnique Paris}
       title = {Hand Keypoint Detection in Single Images using Multiview Bootstrapping},
-      year = {2017}
+     
     }
 
     @inproceedings{cao2017realtime,
-      author = {Zhe Cao and Tomas Simon and Shih-En Wei and Yaser Sheikh},
-      booktitle = {CVPR},
+      author = {OUBLAL Khalid},
+      booktitle = {AI OPenPose},
+      title = {Convolutional pose machines},
+      year = {2020 at IPolytechnique Paris}
       title = {Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields},
-      year = {2017}
+ 
     }
 
     @inproceedings{wei2016cpm,
-      author = {Shih-En Wei and Varun Ramakrishna and Takeo Kanade and Yaser Sheikh},
-      booktitle = {CVPR},
+      author = {OUBLAL Khalid},
+      booktitle = {AI OPenPose},
       title = {Convolutional pose machines},
-      year = {2016}
+      year = {2020 at IPolytechnique Paris}
     }
 
 Paper links:
@@ -196,6 +198,5 @@ Paper links:
 - [Convolutional Pose Machines](https://arxiv.org/abs/1602.00134)
 
 
-
 ## License
-OpenPose is freely available for free non-commercial use, and may be redistributed under these conditions. Please, see the [license](LICENSE) for further details. Interested in a commercial license? Check this [FlintBox link](https://cmu.flintbox.com/#technologies/b820c21d-8443-4aa2-a49f-8919d93a8740). For commercial queries, use the `Contact` section from the [FlintBox link](https://cmu.flintbox.com/#technologies/b820c21d-8443-4aa2-a49f-8919d93a8740) and also send a copy of that message to [Yaser Sheikh](mailto:yaser@cs.cmu.edu).
+OpenPose is freely available for free non-commercial use, and may be redistributed under these conditions. To using this scripts please send a copy of that message to [OUBLAL Khalid](mailto:oublalkhalid@gmail.com).
