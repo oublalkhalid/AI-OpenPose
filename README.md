@@ -22,7 +22,7 @@ It is **authored by [OUBLAL Khalid](https://www.khalidoublal.cf)**. OpenPose wou
 
 
 <p align="center">
-    <img src=".github/media/pose_face_hands.gif", width="480">
+    
     <br>
     <sup>Authors <a href="https://www.gineshidalgo.com" target="_blank">Gines Hidalgo</a> (left) and <a href="https://jhugestar.github.io" target="_blank">Hanbyul Joo</a> (right) in front of the <a href="http://domedb.perception.cs.cmu.edu" target="_blank">CMU Panoptic Studio</a></sup>
 </p>
@@ -44,31 +44,28 @@ It is **authored by [OUBLAL Khalid](https://www.khalidoublal.cf)**. OpenPose wou
 ## Results
 ### Body and Foot Estimation
 <p align="center">
-    <img src=".github/media/dance_foot.gif", width="360">
+    
     <br>
     <sup>Testing the <a href="https://www.youtube.com/watch?v=2DiQUX11YaY" target="_blank"><i>Crazy Uptown Funk flashmob in Sydney</i></a> video sequence with OpenPose</sup>
 </p>
 
 ### 3D Reconstruction Module (Body, Foot, Face, and Hands)
 <p align="center">
-    <img src=".github/media/openpose3d.gif", width="360">
+    
     <br>
     <sup>Testing the 3D Reconstruction Module of OpenPose</sup>
 </p>
 
 ### Body, Foot, Face, and Hands Estimation
 <p align="center">
-    <img src=".github/media/pose_face.gif", width="360">
-    <img src=".github/media/pose_hands.gif", width="360">
+    
     <br>
     <sup>Authors <a href="https://www.gineshidalgo.com" target="_blank">Gines Hidalgo</a> (left image) and <a href="http://www.cs.cmu.edu/~tsimon" target="_blank">Tomas Simon</a> (right image) testing OpenPose</sup>
 </p>
 
 ### Unity Plugin
 <p align="center">
-    <img src=".github/media/unity_main.png", width="240">
-    <img src=".github/media/unity_body_foot.png", width="240">
-    <img src=".github/media/unity_hand_face.png", width="240">
+   
     <br>
     <sup><a href="http://tianyizhao.com" target="_blank">Tianyi Zhao</a> and <a href="https://www.gineshidalgo.com" target="_blank">Gines Hidalgo</a> testing the <a href="https://github.com/CMU-Perceptual-Computing-Lab/openpose_unity_plugin" target="_blank">OpenPose Unity Plugin</a></sup>
 </p>
