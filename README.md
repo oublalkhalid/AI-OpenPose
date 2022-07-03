@@ -149,50 +149,7 @@ Our library is open source for research purposes, and we want to continuously im
 3. Know how to speed up or improve any part of OpenPose.
 4. Want to share your cool demo or project made on top of OpenPose (you can email it to us too!).
 
-Just create a new GitHub issue or a pull request and we will answer as soon as possible!
 
-## Citation
-
-    @article{8765346,
-     author = {OUBLAL Khalid},
-      booktitle = {AI OPenPose},
-      title = {Convolutional pose machines},
-      year = {2020 at IPolytechnique Paris}
- 
-    }
-
-    @inproceedings{simon2017hand,
-      author = {OUBLAL Khalid},
-      booktitle = {AI OPenPose},
-      title = {Convolutional pose machines},
-      year = {2020 at IPolytechnique Paris}
-      title = {Hand Keypoint Detection in Single Images using Multiview Bootstrapping},
-     
-    }
-
-    @inproceedings{cao2017realtime,
-      author = {OUBLAL Khalid},
-      booktitle = {AI OPenPose},
-      title = {Convolutional pose machines},
-      year = {2020 at IPolytechnique Paris}
-      title = {Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields},
- 
-    }
-
-    @inproceedings{wei2016cpm,
-      author = {OUBLAL Khalid},
-      booktitle = {AI OPenPose},
-      title = {Convolutional pose machines},
-      year = {2020 at IPolytechnique Paris}
-    }
-
-Paper links:
-- OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields:
-    - [IEEE TPAMI](https://ieeexplore.ieee.org/document/8765346)
-    - [ArXiv](https://arxiv.org/abs/1812.08008)
-- [Hand Keypoint Detection in Single Images using Multiview Bootstrapping](https://arxiv.org/abs/1704.07809)
-- [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1611.08050)
-- [Convolutional Pose Machines](https://arxiv.org/abs/1602.00134)
 
 
 ## License
